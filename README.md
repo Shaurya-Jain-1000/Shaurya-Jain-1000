@@ -1,13 +1,13 @@
-- 👋 Hi, I’m Zappricious
+- 👋 Hi, I’m Shaurya
 - 👀 I’m interested in Automating my work, making bots and fun games and just making life easier with coding (especially python) 
 - 🌱 I’m currently learning Machine Learning and Data Analysis with python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaurya-Jain-1000&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zappricious&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Jain-1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zappricious)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
