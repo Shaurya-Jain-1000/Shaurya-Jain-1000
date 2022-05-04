@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaurya
+- 👋 Hi, I’m Zappricious
 - 👀 I’m interested in Automating my work, making bots and fun games and just making life easier with coding (especially python) 
 - 🌱 I’m currently learning Machine Learning and Data Analysis with python
 - 💞️ I’m looking to collaborate on ...
